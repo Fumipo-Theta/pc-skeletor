@@ -2,7 +2,7 @@ numpy
 robust_laplacian==0.2.4
 scipy
 matplotlib
-open3d==0.16
+open3d>0.15
 tqdm
 imageio
 networkx==2.6.3
@@ -12,3 +12,4 @@ pytest
 sniffio
 
 mistree @ git+https://github.com/Fumipo-Theta/mistree.git
+
